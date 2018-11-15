@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainViewModel.cs](./CS/EventToCommandExample/ViewModels/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/EventToCommandExample/ViewModels/MainViewModel.vb))
+* **[MainView.xaml](./CS/EventToCommandExample/Views/MainView.xaml) (VB: [MainView.xaml](./VB/EventToCommandExample/Views/MainView.xaml))**
+<!-- default file list end -->
 # How to handle GridControl's events by using the EventToCommand extension
 
 
