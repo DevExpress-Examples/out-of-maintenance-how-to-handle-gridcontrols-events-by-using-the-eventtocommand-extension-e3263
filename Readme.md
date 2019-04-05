@@ -4,7 +4,7 @@
 * [FocusedColumnChangedEventArgsToFieldNameConverter.cs](./CS/EventToCommandExample/Converters/FocusedColumnChangedEventArgsToFieldNameConverter.cs) (VB: [FocusedColumnChangedEventArgsToFieldNameConverter.vb](./VB/EventToCommandExample/Converters/FocusedColumnChangedEventArgsToFieldNameConverter.vb))
 * [MouseButtonEventArgsToGridRowConverter.cs](./CS/EventToCommandExample/Converters/MouseButtonEventArgsToGridRowConverter.cs) (VB: [MouseButtonEventArgsToGridRowConverter.vb](./VB/EventToCommandExample/Converters/MouseButtonEventArgsToGridRowConverter.vb))
 * [MainWindow.xaml](./CS/EventToCommandExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/EventToCommandExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/EventToCommandExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/EventToCommandExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/EventToCommandExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/EventToCommandExample/MainWindow.xaml.vb))
 * [SampleData.cs](./CS/EventToCommandExample/Models/SampleData.cs) (VB: [SampleData.vb](./VB/EventToCommandExample/Models/SampleData.vb))
 * [MainViewModel.cs](./CS/EventToCommandExample/ViewModels/MainViewModel.cs) (VB: [MainViewModel.vb](./VB/EventToCommandExample/ViewModels/MainViewModel.vb))
 <!-- default file list end -->
