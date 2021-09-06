@@ -1,8 +1,8 @@
 Microsoft Visual Studio Solution File, Format Version 14.00
-# Visual Studio 2012
+# Visual Studio 16
 VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventToCommandExample", "EventToCommandExample\EventToCommandExample.csproj", "{873C5301-94AF-45D0-909C-5E8FA57122A3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventToCommandExample", "EventToCommandExample\EventToCommandExample.Net5.csproj", "{873C5301-94AF-45D0-909C-5E8FA57122A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
