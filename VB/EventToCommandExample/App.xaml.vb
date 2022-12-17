@@ -1,9 +1,8 @@
-﻿Imports System
-Imports System.Linq
 Imports System.Windows
 
 Namespace EventToCommandExample
-    Partial Public Class App
+
+    Public Partial Class App
         Inherits Application
 
     End Class
